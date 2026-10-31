@@ -1,0 +1,21 @@
+{
+  "name": "primeiros-passos",
+  "version": "1.0.0",
+  "description": "   If verification fails because the package manager blocked Cypress's postinstall script, follow the package manager configuration steps in the install guide, then verify again.",
+  "keywords": [
+    "-",
+    "pnpm:",
+    "pnpm",
+    "cypress",
+    "open"
+  ],
+  "author": "- Bun: bunx cypress open",
+  "type": "Don't create a Cypress config or spec files yourself. Cypress may show a welcome screen first. After that, I choose end-to-end or component testing in the Cypress window, and Cypress scaffolds the config for me. When you're done, tell me which package manager you used and what you changed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "   - npm: npx cypress open"
+  },
+  "dependencies": {
+    "cypress": "^16.2.1"
+  }
+}
